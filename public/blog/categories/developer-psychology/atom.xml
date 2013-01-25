@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Geekology - Technical Recruiting Training]]></title>
-  <link href="http://geekology.heroku.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: developer psychology | Geekology - Technical Recruiting Training]]></title>
+  <link href="http://geekology.heroku.com/blog/categories/developer-psychology/atom.xml" rel="self"/>
   <link href="http://geekology.heroku.com/"/>
   <updated>2013-01-25T00:27:47-08:00</updated>
   <id>http://geekology.heroku.com/</id>

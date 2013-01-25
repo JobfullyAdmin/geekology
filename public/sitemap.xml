@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://geekology.heroku.com/blog/2013/01/24/developer-mind-reading-101/</loc>
+        <lastmod>2013-01-25T00:27:46-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekology.heroku.com/robots.txt</loc>
         <lastmod>2013-01-24T17:15:15-08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-01-24T17:15:15-08:00</lastmod>
+        <loc>http://geekology.heroku.com/</loc>
+        <lastmod>2013-01-25T00:27:46-08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-01-24T17:15:15-08:00</lastmod>
+        <loc>http://geekology.heroku.com/blog/archives/</loc>
+        <lastmod>2013-01-25T00:27:46-08:00</lastmod>
     </url>
 </urlset>

@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[Geekology - Technical Recruiting Training]]></title>
-  <link href="http://geekology.heroku.com/atom.xml" rel="self"/>
-  <link href="http://geekology.heroku.com/"/>
-  <updated>2013-01-25T00:27:47-08:00</updated>
-  <id>http://geekology.heroku.com/</id>
-  <author>
-    <name><![CDATA[Geekology]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
-
-  
-  <entry>
-    <title type="html"><![CDATA[Developer Mind Reading 101]]></title>
-    <link href="http://geekology.heroku.com/blog/2013/01/24/developer-mind-reading-101/"/>
-    <updated>2013-01-24T23:37:00-08:00</updated>
-    <id>http://geekology.heroku.com/blog/2013/01/24/developer-mind-reading-101</id>
-    <content type="html"><![CDATA[<p>
+---
+layout: post
+title: "Developer Mind Reading 101"
+date: 2013-01-24 23:37
+comments: true
+external-url:
+categories:
+- developer psychology
+author: Mei Lu
+---
+<p>
 If you’re a technical recruiter, knowing what’s on your candidate’s mind helps tremendously at every step of your interaction with them.  The better you know what the most important considerations are on their mind, the better chance you have to successfully recruit them.  Here is a list of super power you’ll get when you can “read mind” - <!-- More -->
    <ul>
      <li>
@@ -103,9 +93,13 @@ Now when we look at this summary, we can see that technical people – developer
   <p>
 Now you knowing the main decision factors of technical talent, incorporate these into all your interactions with your candidates when you recruit them.  For example, saying something like
 </p>
-<blockquote><p>“In our Big Data SDE role, you get to play with petabytes of data, code up mind-bending machine learning algorithms, and become a master of all things Big Data – Cassandra, Hbase, PIG, Hive, Hadoop, and more.”</p></blockquote>
+{% blockquote %}
+“In our Big Data SDE role, you get to play with petabytes of data, code up mind-bending machine learning algorithms, and become a master of all things Big Data – Cassandra, Hbase, PIG, Hive, Hadoop, and more.”
+{% endblockquote %}
 <p>is a lot more enticing than saying</p>
-<blockquote><p>“I have a very good job opportunity. I am attaching the job description. If you are interested, kindly send your updated resume.”</p></blockquote>
+{% blockquote %}
+“I have a very good job opportunity. I am attaching the job description. If you are interested, kindly send your updated resume.”
+{% endblockquote %}
   <p>
 Intrigue your candidates by mapping the job requirements to what they look for in a job.  When you incorporate this into every piece of communication, your candidates will become a lot more enthusiastic and cooperative.
   </p>
@@ -118,8 +112,3 @@ These are the basic requirements developers have in their next job.  Be sure you
   <p>
 Do you have other items or recruiting stories you’d like to share?  Please let us know.
   </p>
-
-]]></content>
-  </entry>
-  
-</feed>

@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://geekology.heroku.com/blog/2013/01/24/developer-mind-reading-101/</loc>
-        <lastmod>2013-01-25T18:35:38-08:00</lastmod>
+        <lastmod>2013-01-25T20:47:29-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/robots.txt</loc>
@@ -10,10 +10,10 @@
     </url>
     <url>
         <loc>http://geekology.heroku.com/</loc>
-        <lastmod>2013-01-25T18:35:38-08:00</lastmod>
+        <lastmod>2013-01-25T20:47:29-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/archives/</loc>
-        <lastmod>2013-01-25T18:35:38-08:00</lastmod>
+        <lastmod>2013-01-25T20:47:29-08:00</lastmod>
     </url>
 </urlset>

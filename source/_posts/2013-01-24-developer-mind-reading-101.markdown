@@ -8,6 +8,7 @@ categories:
 - developer psychology
 author: Mei Lu
 ---
+<h2>What Developers Look for in a Job</h2>
 <p>
 If you’re a technical recruiter, knowing what’s on your candidate’s mind helps tremendously at every step of your interaction with them.  The better you know what the most important considerations are on their mind, the better chance you have to successfully recruit them.  Here is a list of super power you’ll get when you can “read mind” - <!-- More -->
    <ul>
@@ -23,13 +24,13 @@ If you’re a technical recruiter, knowing what’s on your candidate’s mind h
    </ul>
 <p>
 
-<h2>What developers tell you</h2>
+<h3>What developers tell you</h3>
 <p>
   It turns out this is a hot topic among technical people as well.  Whenever I talk to my fellow developers/engineers, I get many eager responses.  Here is a (long) list of typical answers you’ll get when you ask technical people what they are looking for:
   <ul>
     <li>I like to wear many hats</li>
     <li>No bureaucracy</li>
-    <li>I can build something awesome</li>
+    <li>A place where I can build something awesome</li>
     <li>I want no politics</li>
     <li>I have ownership in the product</li>
     <li>What I do and how hard I work actually matters</li>
@@ -53,7 +54,7 @@ If you’re a technical recruiter, knowing what’s on your candidate’s mind h
   </ul>
 </p>
 
-<h2>What they are REALLY saying</h2>
+<h3>What they are REALLY saying</h3>
 <p>
 With a list this long, it’s difficult to keep all these in your head when you interact with your candidates.  The good news is that we can boil them down into four simple categories:
   <ol>
@@ -86,7 +87,7 @@ With a list this long, it’s difficult to keep all these in your head when you 
   </ol>
 </p>
 
-<h2>How to use it in your recruiting</h2>
+<h3>How to use it in your recruiting</h3>
   <p>
 Now when we look at this summary, we can see that technical people – developers, software engineers, designers, QA engineers, database architect, DevOps, PMs, etc. – want pretty much the same thing as everyone else.  The difference is that good technical candidates are in a position to choose, so they set the bar pretty high.  This means they expect to find a job that meets ALL of their criteria, because they can.
   </p>
@@ -104,9 +105,9 @@ Now you knowing the main decision factors of technical talent, incorporate these
 Intrigue your candidates by mapping the job requirements to what they look for in a job.  When you incorporate this into every piece of communication, your candidates will become a lot more enthusiastic and cooperative.
   </p>
 
-<h2>Getting to a successful hire</h2>
+<h3>Getting to a successful hire</h3>
   <p>
-These are the basic requirements developers have in their next job.  Be sure you address 90%, if not all, of them.   To go beyond the basics, you need to also learn about each candidate’s unique situation.  That’s where the more subjective requirements come into consideration.  Additionally, knowing how your candidates rank their decision factors will be crucial during the negotiation.  These will be in a future blog, “Developer Mind Reading 202.”
+These are the basic requirements developers have in their next job.  Be sure you address at least 90%, if not all, of them.   To go beyond the basics, you need to also learn about each candidate’s unique situation.  That’s where the more subjective requirements come into consideration.  Additionally, knowing how your candidates rank their decision factors will be crucial during the negotiation.  These will be in a future blog, “Developer Mind Reading 202.”
   </p>
   <br/>
   <p>

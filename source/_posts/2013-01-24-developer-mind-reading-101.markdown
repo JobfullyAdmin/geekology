@@ -7,8 +7,8 @@ external-url:
 categories:
 - developer psychology
 author: Mei Lu
+description: It's important for technical recruiters to know what's on programmers' mind when they consider a new job.
 keywords: developer, software engineer, devops, software architect, designer, job, looking for, job satisfaction, software jobs, technical jobs, technical talent, change jobs, look for a job, technical recruiter, recruiting developers, hire developers, hire software engineers, recruiting software engineers, recruiting designers, return phone calls, return emails, technical work, software work
-description: Technical recruiters need to understand the important considerations on technical talent's mind to be able to successfully recruit and hire them.  We boil developers' requirements for a new job into four main categories.  Recruiters can incorporate them into their pitch so the candidates return their emails and phone calls.
 ---
 <h2>What Developers Look for in a Job</h2>
 <p>

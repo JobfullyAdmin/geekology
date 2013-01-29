@@ -4,7 +4,7 @@
   <title><![CDATA[Geekology - Technical Recruiting Training]]></title>
   <link href="http://geekology.heroku.com/atom.xml" rel="self"/>
   <link href="http://geekology.heroku.com/"/>
-  <updated>2013-01-29T14:34:52-08:00</updated>
+  <updated>2013-01-29T15:06:51-08:00</updated>
   <id>http://geekology.heroku.com/</id>
   <author>
     <name><![CDATA[Geekology]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Job Description Review by Developer - QA Engineer]]></title>
+    <title type="html"><![CDATA[Job Description Review by Developers - QA Engineer]]></title>
     <link href="http://geekology.heroku.com/blog/2013/01/29/job-description-review-by-developer-qa-engineer/"/>
     <updated>2013-01-29T11:56:00-08:00</updated>
     <id>http://geekology.heroku.com/blog/2013/01/29/job-description-review-by-developer-qa-engineer</id>
@@ -22,7 +22,7 @@
 
 
 <p>
-In this series, I invite someone with matching or related technical background to review a real job description we find online.  In these reviews, we learn the unfiltered feedback and thoughts from the technical people who are the target readers of these job descriptions.  Please note: each review only reflects the opinion of one individual - that specific reviewer.
+In this series, I invite someone to review a real job description with matching or related technical background.  In these reviews, you&#8217;ll learn the unfiltered feedback and thoughts from the technical people who are the target readers of these job descriptions.  Please note: each review reflects only the opinion of the specific reviewer.
 </p>
 
 
@@ -131,7 +131,7 @@ Okay, let’s go to Craigslist.  The top job posting happens to be a QA role, wh
 <ol>
 <li>Virtual Machine Engine: It&#8217;s an interesting technology to me.</li>
 <li>Virtualization and Coding Theory: Once again, I&#8217;m interested in the technology.</li>
-<li>Company info: It&#8217;s good to know the company is profitable and have lots of users and the type of users.</li>
+<li>Company info: It&#8217;s good to know the company is profitable, have lots of users and the type of users the company has.</li>
 </ol>
 </p>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Job Description Review by Developer - QA Engineer"
+title: "Job Description Review by Developers - QA Engineer"
 date: 2013-01-29 11:56
 comments: true
 categories: 
@@ -12,7 +12,7 @@ keywords:
 ---
 <h2>QA Engineer - Desktop Virtualization (Seattle)</h2>
 <p>
-In this series, I invite someone with matching or related technical background to review a real job description we find online.  In these reviews, we learn the unfiltered feedback and thoughts from the technical people who are the target readers of these job descriptions.  Please note: each review only reflects the opinion of one individual - that specific reviewer.
+In this series, I invite someone to review a real job description with matching or related technical background.  In these reviews, you'll learn the unfiltered feedback and thoughts from the technical people who are the target readers of these job descriptions.  Please note: each review reflects only the opinion of the specific reviewer.
 </p>
 <!-- More -->
 <p><strong>Please give us your career summary.</strong></p>
@@ -81,7 +81,7 @@ Okay, let’s go to Craigslist.  The top job posting happens to be a QA role, wh
 <ol>
 <li>Virtual Machine Engine: It's an interesting technology to me.</li>
 <li>Virtualization and Coding Theory: Once again, I'm interested in the technology.</li>
-<li>Company info: It's good to know the company is profitable and have lots of users and the type of users.</li>
+<li>Company info: It's good to know the company is profitable, have lots of users and the type of users the company has.</li>
 </ol>
 </p>
 <p>

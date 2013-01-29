@@ -5,15 +5,21 @@
         <lastmod>2013-01-25T22:22:38-08:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://geekology.heroku.com/blog/2013/01/29/job-description-review-by-developer-qa-engineer/
+        </loc>
+        <lastmod>2013-01-29T14:05:34-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://geekology.heroku.com/robots.txt</loc>
         <lastmod>2013-01-24T17:15:15-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/</loc>
-        <lastmod>2013-01-25T22:22:38-08:00</lastmod>
+        <lastmod>2013-01-29T14:05:34-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/archives/</loc>
-        <lastmod>2013-01-25T22:22:38-08:00</lastmod>
+        <lastmod>2013-01-29T14:05:34-08:00</lastmod>
     </url>
 </urlset>

@@ -7,8 +7,8 @@ categories:
 - job description review
 - QA engineer
 author: Mei Lu
-description:
-keywords:
+description: QA Engineer Job Description reviewed by a QA and Engineering Manager
+keywords: job description review, QA engineer, QA job description, Seattle QA job, QA engineer review
 ---
 <h2>QA Engineer - Desktop Virtualization (Seattle)</h2>
 <p>

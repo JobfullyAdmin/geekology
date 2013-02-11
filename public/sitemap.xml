@@ -14,7 +14,11 @@
         <loc>
             http://geekology.heroku.com/blog/2013/02/01/what-makes-a-strong-recruiting-team/
         </loc>
-        <lastmod>2013-02-01T23:48:18-08:00</lastmod>
+        <lastmod>2013-02-01T23:59:57-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekology.heroku.com/blog/2013/02/10/what-is-an-sdet/</loc>
+        <lastmod>2013-02-11T00:40:59-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/robots.txt</loc>
@@ -22,10 +26,10 @@
     </url>
     <url>
         <loc>http://geekology.heroku.com/</loc>
-        <lastmod>2013-02-01T23:48:18-08:00</lastmod>
+        <lastmod>2013-02-11T00:40:59-08:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/archives/</loc>
-        <lastmod>2013-02-01T23:48:18-08:00</lastmod>
+        <lastmod>2013-02-11T00:40:59-08:00</lastmod>
     </url>
 </urlset>

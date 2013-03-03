@@ -7,6 +7,8 @@ categories:
 - SDET
 - QA engineer
 author: Pradeep Chauhan
+description: SDET is an often misunderstood role, by both developers and techncial recruiters. We explain what SDET really is and what are the important traits to look for.
+keywords: SDET, recruiting for SDET, SDET definition, what to look for in an SDET, QA engieering, software testing, software quality assurance, SDET technical recruiting
 ---
 <p>
 If you are a software developer looking for a contract or full-time job with companies like Microsoft, Amazon, etc., you've probably been approached by enough recruiters that asked you if you'd be interested in working as an SDET. Your first reaction might have been - Testing? No way. <!-- More --> Then, they start talking about how it involves a lot of coding and now you think, "Now, that's different from what I thought about testing."

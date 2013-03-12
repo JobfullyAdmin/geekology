@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Fix Technical Recruiters' Bad Name"
+title: "Let's Fix Technical Recruiting's Image Problem"
 date: 2013-03-02 23:39
 comments: true
 categories:
@@ -22,12 +22,12 @@ For me, the answer was a blog titled,
 {% endblockquote %}
 <p>
 DHH then included an actual email that he received from a recruiter, urging him to apply for “a rapidly expanding, VC-funded tech startup positioned squarely on top of the social media marketing revolution.”  Here is an analogy for this situation - 
-It’s like a recruiter asking Iron Chef Bobby Flay if he would like to apply for a position at a promising neighborhood eatery, and that his pay would &ldquo;depends on his experience.&rdquo;
+It’s like a recruiter asking Iron Chef Bobby Flay if he would like to apply for a position at a promising neighborhood eatery, and that his pay would &ldquo;depend on his experience.&rdquo;
 </p>
 <p>
 DHH went on, 
 {% blockquote %}
-“If they’re just going to spam people from emails they find on tech sites, why not just pay some shady Russians to do it?”  He continued, “The problem with this kind of hackery is that it has bred an outright animosity to recruiters in large parts of the tech world.”
+“If they’re just going to spam people from emails they find on tech sites, why not just pay some shady Russians to do it? [...] The problem with this kind of hackery is that it has bred an outright animosity to recruiters in large parts of the tech world.”
 {% endblockquote %}
 </p>
 <p>
@@ -61,7 +61,7 @@ After reading this blog, I felt compelled to find ways to improve this situation
 <strong>Understand what technical people value:</strong> Put yourself in technical talent’s shoes and know what is important in their work and career
 </li>
 <li>
-<strong>Be value-add for potential candidates:</strong> Offer job opportunities to developers because these opportunities improve their career, not just because you’ll have a placement or get paid
+<strong>Be value-add for potential candidates:</strong> Offer job opportunities to developers because these opportunities improve their career, not just because you’ll fill a role or get paid
 </li>
 </ul>
 <p>

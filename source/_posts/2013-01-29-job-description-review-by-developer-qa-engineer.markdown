@@ -76,7 +76,7 @@ Okay, let’s go to Craigslist.  The top job posting happens to be a QA role, wh
 <p>
 (After about 20 seconds scanning this job description)  Here are the three things that stand out for me:
 </p>
-{% img https://dl.dropbox.com/u/3131770/QA_JD.png What Stands Out %}
+{% img /images/blog_imgs/QA_JD.png What Stands Out %}
 <p>
 <ol>
 <li>Virtual Machine Engine: It's an interesting technology to me.</li>
@@ -95,4 +95,4 @@ Please rate this job description.
 Interest-level heat map of this job description for this engineer:</strong>
 (Yellow - interesting.  Grey - not interesting.)
 </p>
-{% img https://dl.dropbox.com/u/3131770/QA_JD_overall.png Developer Interest Heat Map %}
+{% img /images/blog_imgs/QA_JD_overall.png Developer Interest Heat Map %}

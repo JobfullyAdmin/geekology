@@ -57,5 +57,5 @@ Software architecture is not a well-defined term, even among the software engine
 </p>
 
 <p>
-Please use the Comments below or email us at <em>geekology@jobfully.com</em>to let us know if there are questions you'd like to see in the <em>"Geek Language Quiz"</em> series.  Thanks!
+Please use the Comments below or email <em>geekology@jobfully.com</em> to let us know if there are questions you wish to see in the <em>"Geek Language Quiz"</em> series.  We'd love to hear from you.
 </p>

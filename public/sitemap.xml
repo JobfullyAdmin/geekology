@@ -8,7 +8,7 @@
         <loc>
             http://geekology.heroku.com/blog/2013/01/29/job-description-review-by-developer-qa-engineer/
         </loc>
-        <lastmod>2013-03-21T19:40:46-07:00</lastmod>
+        <lastmod>2013-03-21T20:08:24-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -30,7 +30,11 @@
         <loc>
             http://geekology.heroku.com/blog/2013/03/21/job-description-review-by-developers-ios-mobile-app-developer/
         </loc>
-        <lastmod>2013-03-21T19:57:34-07:00</lastmod>
+        <lastmod>2013-03-21T20:08:24-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekology.heroku.com/blog/2013/04/18/geek-language-quiz-1/</loc>
+        <lastmod>2013-04-18T12:24:44-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/robots.txt</loc>
@@ -38,10 +42,10 @@
     </url>
     <url>
         <loc>http://geekology.heroku.com/</loc>
-        <lastmod>2013-03-21T19:57:34-07:00</lastmod>
+        <lastmod>2013-04-18T12:24:44-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/archives/</loc>
-        <lastmod>2013-03-21T19:57:34-07:00</lastmod>
+        <lastmod>2013-04-18T12:24:44-07:00</lastmod>
     </url>
 </urlset>

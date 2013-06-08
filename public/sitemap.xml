@@ -34,7 +34,11 @@
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/2013/04/18/geek-language-quiz-1/</loc>
-        <lastmod>2013-04-18T12:41:06-07:00</lastmod>
+        <lastmod>2013-04-18T12:47:38-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://geekology.heroku.com/blog/2013/06/08/can-you-speak-geek/</loc>
+        <lastmod>2013-06-08T16:15:05-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/robots.txt</loc>
@@ -42,10 +46,10 @@
     </url>
     <url>
         <loc>http://geekology.heroku.com/</loc>
-        <lastmod>2013-04-18T12:41:06-07:00</lastmod>
+        <lastmod>2013-06-08T16:15:05-07:00</lastmod>
     </url>
     <url>
         <loc>http://geekology.heroku.com/blog/archives/</loc>
-        <lastmod>2013-04-18T12:41:06-07:00</lastmod>
+        <lastmod>2013-06-08T16:15:05-07:00</lastmod>
     </url>
 </urlset>
